@@ -1,0 +1,129 @@
+{
+  "tau": 0.0,
+  "individual_val_accs": {
+    "ft_lr0.001_wd0.0001_augbasic_ep10": 98.46,
+    "ft_lr0.001_wd0.0001_augbasic_ep3": 98.38,
+    "ft_lr0.001_wd0.0001_augbasic_ep5": 98.5,
+    "ft_lr0.001_wd0.0001_augcutout_ep10": 97.26,
+    "ft_lr0.001_wd0.0001_augcutout_ep3": 97.2,
+    "ft_lr0.001_wd0.0001_augcutout_ep5": 97.3,
+    "ft_lr0.001_wd0.0005_augbasic_ep10": 98.58,
+    "ft_lr0.001_wd0.0005_augbasic_ep3": 98.42,
+    "ft_lr0.001_wd0.0005_augbasic_ep5": 98.46,
+    "ft_lr0.001_wd0.0005_augcutout_ep10": 97.42,
+    "ft_lr0.001_wd0.0005_augcutout_ep3": 97.18,
+    "ft_lr0.001_wd0.0005_augcutout_ep5": 97.36,
+    "ft_lr0.001_wd0.001_augbasic_ep5": 98.56,
+    "ft_lr0.001_wd0.001_augcutout_ep5": 97.32,
+    "ft_lr0.005_wd0.0001_augbasic_ep5": 98.46,
+    "ft_lr0.005_wd0.0001_augcutout_ep5": 97.24,
+    "ft_lr0.005_wd0.0005_augbasic_ep5": 98.46,
+    "ft_lr0.005_wd0.0005_augcutout_ep5": 97.08,
+    "ft_lr0.005_wd0.001_augbasic_ep5": 98.54,
+    "ft_lr0.005_wd0.001_augcutout_ep5": 97.26,
+    "ft_lr0.01_wd0.0001_augbasic_ep10": 98.68,
+    "ft_lr0.01_wd0.0001_augbasic_ep3": 98.54,
+    "ft_lr0.01_wd0.0001_augbasic_ep5": 98.72,
+    "ft_lr0.01_wd0.0001_augcutout_ep10": 97.46,
+    "ft_lr0.01_wd0.0001_augcutout_ep3": 97.02,
+    "ft_lr0.01_wd0.0001_augcutout_ep5": 97.1,
+    "ft_lr0.01_wd0.0005_augbasic_ep10": 98.76,
+    "ft_lr0.01_wd0.0005_augbasic_ep3": 98.26,
+    "ft_lr0.01_wd0.0005_augbasic_ep5": 98.34,
+    "ft_lr0.01_wd0.0005_augcutout_ep10": 97.3,
+    "ft_lr0.01_wd0.0005_augcutout_ep3": 97.2,
+    "ft_lr0.01_wd0.0005_augcutout_ep5": 97.22,
+    "ft_lr0.01_wd0.001_augbasic_ep5": 98.38,
+    "ft_lr0.01_wd0.001_augcutout_ep5": 96.88,
+    "ft_lr0.02_wd0.0001_augbasic_ep5": 98.24,
+    "ft_lr0.02_wd0.0001_augcutout_ep5": 96.92,
+    "ft_lr0.02_wd0.0005_augbasic_ep5": 98.32,
+    "ft_lr0.02_wd0.0005_augcutout_ep5": 96.42,
+    "ft_lr0.02_wd0.001_augbasic_ep5": 98.12,
+    "ft_lr0.02_wd0.001_augcutout_ep5": 96.34
+  },
+  "individual_test_accs": {
+    "ft_lr0.001_wd0.0001_augbasic_ep10": 90.16,
+    "ft_lr0.001_wd0.0001_augbasic_ep3": 90.23,
+    "ft_lr0.001_wd0.0001_augbasic_ep5": 90.18,
+    "ft_lr0.001_wd0.0001_augcutout_ep10": 89.48,
+    "ft_lr0.001_wd0.0001_augcutout_ep3": 89.0,
+    "ft_lr0.001_wd0.0001_augcutout_ep5": 89.29,
+    "ft_lr0.001_wd0.0005_augbasic_ep10": 90.29,
+    "ft_lr0.001_wd0.0005_augbasic_ep3": 90.19,
+    "ft_lr0.001_wd0.0005_augbasic_ep5": 90.23,
+    "ft_lr0.001_wd0.0005_augcutout_ep10": 89.39,
+    "ft_lr0.001_wd0.0005_augcutout_ep3": 88.94,
+    "ft_lr0.001_wd0.0005_augcutout_ep5": 89.18,
+    "ft_lr0.001_wd0.001_augbasic_ep5": 90.27,
+    "ft_lr0.001_wd0.001_augcutout_ep5": 89.2,
+    "ft_lr0.005_wd0.0001_augbasic_ep5": 90.1,
+    "ft_lr0.005_wd0.0001_augcutout_ep5": 89.46,
+    "ft_lr0.005_wd0.0005_augbasic_ep5": 90.15,
+    "ft_lr0.005_wd0.0005_augcutout_ep5": 89.46,
+    "ft_lr0.005_wd0.001_augbasic_ep5": 90.27,
+    "ft_lr0.005_wd0.001_augcutout_ep5": 89.55,
+    "ft_lr0.01_wd0.0001_augbasic_ep10": 90.41,
+    "ft_lr0.01_wd0.0001_augbasic_ep3": 89.85,
+    "ft_lr0.01_wd0.0001_augbasic_ep5": 90.12,
+    "ft_lr0.01_wd0.0001_augcutout_ep10": 89.63,
+    "ft_lr0.01_wd0.0001_augcutout_ep3": 89.26,
+    "ft_lr0.01_wd0.0001_augcutout_ep5": 89.35,
+    "ft_lr0.01_wd0.0005_augbasic_ep10": 90.25,
+    "ft_lr0.01_wd0.0005_augbasic_ep3": 90.3,
+    "ft_lr0.01_wd0.0005_augbasic_ep5": 90.08,
+    "ft_lr0.01_wd0.0005_augcutout_ep10": 89.89,
+    "ft_lr0.01_wd0.0005_augcutout_ep3": 89.27,
+    "ft_lr0.01_wd0.0005_augcutout_ep5": 89.52,
+    "ft_lr0.01_wd0.001_augbasic_ep5": 90.26,
+    "ft_lr0.01_wd0.001_augcutout_ep5": 89.7,
+    "ft_lr0.02_wd0.0001_augbasic_ep5": 90.19,
+    "ft_lr0.02_wd0.0001_augcutout_ep5": 89.57,
+    "ft_lr0.02_wd0.0005_augbasic_ep5": 90.06,
+    "ft_lr0.02_wd0.0005_augcutout_ep5": 89.68,
+    "ft_lr0.02_wd0.001_augbasic_ep5": 90.08,
+    "ft_lr0.02_wd0.001_augcutout_ep5": 89.72
+  },
+  "greedy_soup": {
+    "selected": [
+      "ft_lr0.01_wd0.0005_augbasic_ep10"
+    ],
+    "n_selected": 1,
+    "val_acc": 98.76,
+    "test_acc": 88.05,
+    "beta_1": 0,
+    "triplet_acc_mean": 0.0,
+    "triplet_acc_std": 0.0,
+    "triplet_accs": []
+  },
+  "topo_soup": {
+    "selected": [
+      "ft_lr0.01_wd0.0005_augbasic_ep10"
+    ],
+    "n_selected": 1,
+    "val_acc": 98.76,
+    "test_acc": 88.49,
+    "beta_1": 0,
+    "triplet_acc_mean": 0.0,
+    "triplet_acc_std": 0.0,
+    "triplet_accs": []
+  },
+  "prediction_experiment": {
+    "LogisticRegression_pairwise_only": {
+      "mean_auc": 0.0,
+      "std_auc": 0.0
+    },
+    "RandomForest_pairwise_only": {
+      "mean_auc": NaN,
+      "std_auc": NaN
+    },
+    "LogisticRegression_topo_enriched": {
+      "mean_auc": 0.0,
+      "std_auc": 0.0
+    },
+    "RandomForest_topo_enriched": {
+      "mean_auc": NaN,
+      "std_auc": NaN
+    }
+  }
+}
