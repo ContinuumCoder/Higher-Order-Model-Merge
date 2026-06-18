@@ -1,6 +1,6 @@
-# Hodge-Guided Model Alignment
+# Higher-Order-Model-Merge
 
-Code for *"Hodge-Guided Model Alignment: Decomposing and Reducing Topological Merge Obstructions"*.
+Code for *"Beyond Pairwise: Diagnosing Higher-Order Merge Failures via Hodge Decomposition" (ICML Workshop 2026)*.
 
 ## Result
 
